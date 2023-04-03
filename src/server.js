@@ -1,6 +1,6 @@
 const app = require('./app');
 // start no servidor.
-app.listen(3001, () => console.log('Servidor rodando na porta 3001')); 
+app.listen(3001, () => console.log('Rodando na porta 3001')); 
 
 /* __________________________________________________________________________________________
 
